@@ -1,0 +1,37 @@
+.carusel{
+    height: 100%;
+    width: 100%;
+}
+.rec-arrow-right{
+    display: none;
+}
+.rec-arrow-left{
+    display: none;
+}
+.rec-arrow{
+    display: none;
+}
+.beVAoS{
+    display: none;
+}
+.kHCwet{
+height: 320px;
+}
+
+.ffWwPE{
+    border: none;
+    outline: none;
+    color: white;
+    }
+    .rec .rec-dot{
+        background: #64e91caf;
+        box-shadow: none;
+        display: block;
+    }
+  
+    .rec .rec-dot:hover{
+        width: 24px;
+        height: 9px;
+        background: #64e91caf;
+        border-radius: 666px;
+    }

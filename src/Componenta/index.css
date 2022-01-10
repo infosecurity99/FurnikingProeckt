@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container{
+    width: 1200px;
+margin: 0px auto;
+
+}
+.wraper{
+   
+    background: #F7F8FA;
+    height: 67px;
+}
+a{
+    font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+color: #555555;
+margin-top: 16px;
+text-decoration:none;
+}
+
+.line{
+     background: #969696;
+opacity: 1;
+margin: 30px 0px;
+height: 1px;
+width: 100%;
+}
